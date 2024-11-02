@@ -1,0 +1,15 @@
+{
+	"name": "indrampd-assets",
+	"version": "1.0.0",
+	"description": "Your package description",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/indrampd/assets.git"
+	},
+	"author": "indrampd",
+	"license": "MIT",
+	"dependencies": {
+		"indra-private-package": "^1.0.0",
+		"indrampd-assets": "^1.0.0"
+	}
+}

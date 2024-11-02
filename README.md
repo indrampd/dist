@@ -15,10 +15,6 @@ Just Import as script to your Project:
 
 `<script src="https://cdn.jsdelivr.net/gh/USERNAME/REPOSITORY/FILENAME"></script>`
 
-## Contributing
+## NPM Install
 
-If you would like to contribute to this repository, please fork the repository and submit a pull request with your changes.
-
-## License
-
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
+`npm install https://github.com/indrampd/assets/raw/main/gsap-business/npm-install-this/gsap-bonus.tgz `

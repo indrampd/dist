@@ -7,14 +7,21 @@ This repository contains various plugins and libraries used in web development p
 -   **GSAP (GreenSock Animation Platform)**: A powerful JavaScript library for creating high-performance animations.
 -   **Swiper**: A modern touch slider with hardware-accelerated transitions.
 
-## CDN Usage
+## How to Use
+## Using via CDN
 
-Just Import as script to your Project:
+To include any of these libraries in your project, you can load them via a CDN. Replace `USERNAME`, `REPOSITORY`, and `FILENAME` with the appropriate values for your specific file.
 
 ### Example
 
-`<script src="https://cdn.jsdelivr.net/gh/USERNAME/REPOSITORY/FILENAME"></script>`
+```html
+<script src="https://cdn.jsdelivr.net/gh/USERNAME/REPOSITORY/FILENAME"></script>
+```
 
-## NPM Install
+## Installing via NPM
 
-`npm install https://github.com/indrampd/assets/raw/main/gsap-business/npm-install-this/gsap-bonus.tgz `
+Alternatively, you can install these libraries via NPM. Use the following command to install a GSAP bonus file directly from the repository:
+
+```bash
+npm install https://github.com/indrampd/dist/raw/main/gsap-business/npm-install-this/gsap-bonus.tgz 
+```

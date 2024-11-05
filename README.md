@@ -8,6 +8,7 @@ This repository contains various plugins and libraries used in web development p
 -   **Swiper**: A modern touch slider with hardware-accelerated transitions.
 
 ## How to Use
+
 ## Using via CDN
 
 To include any of these libraries in your project, you can load them via a CDN. Replace `USERNAME`, `REPOSITORY`, and `FILENAME` with the appropriate values for your specific file.
@@ -23,5 +24,5 @@ To include any of these libraries in your project, you can load them via a CDN. 
 Alternatively, you can install these libraries via NPM. Use the following command to install a GSAP bonus file directly from the repository:
 
 ```bash
-npm install https://github.com/indrampd/dist/raw/main/gsap-business/npm-install-this/gsap-bonus.tgz 
+npm install https://github.com/indrampd/dist/raw/main/gsap/gsap-bonus.tgz
 ```

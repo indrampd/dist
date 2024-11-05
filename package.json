@@ -4,5 +4,8 @@
 	"description": "This repository contains various plugins and libraries used in web development projects. Below is a list of the included plugins:",
 	"files": [
 		"dist/"
-	]
+	],
+	"publishConfig": {
+		"access": "public"
+	}
 }

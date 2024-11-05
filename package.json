@@ -1,5 +1,5 @@
 {
-	"name": "my-library",
+	"name": "@indramd/my-library",
 	"version": "1.0.0",
 	"description": "This repository contains various plugins and libraries used in web development projects. Below is a list of the included plugins:",
 	"files": [
